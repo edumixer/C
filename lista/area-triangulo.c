@@ -2,8 +2,7 @@
 #include <stdio.h>
 
 int main() {
-    int b = 0;
-    int h = 0;
+    int b = 0, h = 0;
     float area = 0;
 
     printf("Digite a base do seu triangulo: ");
